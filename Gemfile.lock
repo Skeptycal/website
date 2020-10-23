@@ -74,7 +74,7 @@ GEM
       jekyll
     jekyll-watch (2.0.0)
       listen (~> 3.0)
-    json (2.1.0)
+    json (2.3.1)
     jumbo-jekyll-theme (2.1.0)
       autoprefixer-rails (~> 5.0, >= 5.0.0.1)
       bootstrap-sass (~> 3.3)
